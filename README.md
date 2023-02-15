@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Привет, я Дмитрий Горбунов</h1>
+<h3 align="center">IOS-разработчик</h3> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<!--
-**DmitryGorbunow/DmitryGorbunow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Мои проекты:</h3>
 
-Here are some ideas to get you started:
+- [Заметки](https://github.com/DmitryGorbunow/Notes) Swift, UIKit, Core Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Поиск изображений](https://github.com/DmitryGorbunow/ImageSearch) Swift, UIKit, SDWebImage, SerpApi
+
+- [Дипломный проект в Нетологии](https://github.com/DmitryGorbunow/VKclone) Swift, UIKit 
+
+
+
+

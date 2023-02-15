@@ -12,6 +12,12 @@
 
 - [Дипломный проект в Нетологии](https://github.com/DmitryGorbunow/VKclone) Swift, UIKit 
 
+<h3 align="left">Сертификаты:</h3>
+
+- [Нетология](https://drive.google.com/file/d/18SHAa7U6Pd7k9hSJC4xixQuzA_9lrbub/view?usp=sharing)
+
+
+
 
 
 

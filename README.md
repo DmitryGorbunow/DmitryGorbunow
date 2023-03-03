@@ -4,7 +4,7 @@
 
 <h3 align="left">Мои проекты:</h3>
 
-- [Еще одни новости](https://github.com/DmitryGorbunow/News) Swift, UIKit, Core Data, News API, Firebase
+- [Еще одни новости](https://github.com/DmitryGorbunow/News) Swift, UIKit, Core Data, News API, Firebase, MapKit
 
 - [Новости](https://github.com/DmitryGorbunow/NewsApp) Swift, UIKit, Core Data, News API
 

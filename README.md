@@ -4,6 +4,8 @@
 
 <h3 align="left">Мои проекты:</h3>
 
+- [Интервальный бег](https://github.com/DmitryGorbunow/IntervalRunning) Swift, UIKit, Core Data, Firebase, MapKit
+
 - [Еще одни новости](https://github.com/DmitryGorbunow/News) Swift, UIKit, Core Data, News API, Firebase, MapKit
 
 - [Новости](https://github.com/DmitryGorbunow/NewsApp) Swift, UIKit, Core Data, News API

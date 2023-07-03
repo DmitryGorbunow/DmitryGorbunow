@@ -4,7 +4,9 @@
 
 <h3 align="left">Мои проекты:</h3>
 
-- [Интервальный бег](https://github.com/DmitryGorbunow/IntervalRunning) Swift, UIKit, Core Data, Firebase, MapKit
+- [Интервальный бег](https://github.com/DmitryGorbunow/IntervalRunning) Swift, UIKit, Core Data, MapKit
+
+- [Поиск спортивных площадок](https://github.com/DmitryGorbunow/SearchSportsGrounds) Swift, UIKit, MapKit
 
 - [Еще одни новости](https://github.com/DmitryGorbunow/News) Swift, UIKit, Core Data, News API, Firebase, MapKit
 

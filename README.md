@@ -8,19 +8,7 @@
 
 - [Поиск спортивных площадок](https://github.com/DmitryGorbunow/SearchSportsGrounds) Swift, UIKit, MapKit
 
-- [Еще одни новости](https://github.com/DmitryGorbunow/News) Swift, UIKit, Core Data, News API, Firebase, MapKit
 
-- [Новости](https://github.com/DmitryGorbunow/NewsApp) Swift, UIKit, Core Data, News API
-
-- [Заметки](https://github.com/DmitryGorbunow/Notes) Swift, UIKit, Core Data
-
-- [Поиск изображений](https://github.com/DmitryGorbunow/ImageSearch) Swift, UIKit, SDWebImage, SerpApi
-
-- [Дипломный проект в Нетологии](https://github.com/DmitryGorbunow/VKclone) Swift, UIKit 
-
-<h3 align="left">Сертификаты:</h3>
-
-- [Нетология](https://drive.google.com/file/d/18SHAa7U6Pd7k9hSJC4xixQuzA_9lrbub/view?usp=sharing)
 
 
 

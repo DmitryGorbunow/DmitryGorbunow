@@ -5,7 +5,7 @@
 <h3 align="left">Мои проекты:</h3>
 
 - [2D Игра](https://github.com/DmitryGorbunow/PlaneGame) Swift, UIKit, Core Data
-- 
+  
 - [Интервальный бег](https://github.com/DmitryGorbunow/IntervalRunning) Swift, UIKit, Core Data, MapKit
 
 - [Поиск спортивных площадок](https://github.com/DmitryGorbunow/SearchSportsGrounds) Swift, UIKit, MapKit

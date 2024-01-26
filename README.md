@@ -4,6 +4,7 @@
 
 <h3 align="left">Мои проекты:</h3>
 
+- [Информация о криптовалютах (Тестовое задание)](https://github.com/DmitryGorbunow/CryptoInfoApp) Swift, UIKit, MVVM
 - [Бронирование номеров (Тестовое задание)](https://github.com/DmitryGorbunow/TourBooking) Swift, SwiftUI, MVVM, Combine
 - [2D Игра](https://github.com/DmitryGorbunow/PlaneGame) Swift, UIKit, Core Data
 - [Интервальный бег](https://github.com/DmitryGorbunow/IntervalRunning) Swift, UIKit, Core Data, MapKit, Firebase
